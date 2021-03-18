@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hoprikoma/hoprikoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mathieu, young student searching for job.
 
-Here are some ideas to get you started:
+## 📕 - Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My biggest experience was working in a communication company during two years:
+
+- Website creation via <a href="https://www.joomla.org">Joomla</a>
+  - Front : HTML / CSS / JavaScript
+  - Back : PHP
+
+I had some experiences with my studies and I could work and discover some technologies :
+
+- Framework
+  - Front
+    - Angular
+    - React
+    - Symfony
+  - Back
+    - NodeJS
+- CMS
+  - Wordpress
+
+I did some solo projects in which I continued to discover but also to do other things that are not taught in my studies
+
+- Framework
+  - Front
+    - Gatsby - ongoing
+
+
+- Template creation
+  - Adobe XD / Photoshop
+- Design analysis / Creation (UX / UI)
+- Product enhancement
+- Photography
+- Video editing / VFX
