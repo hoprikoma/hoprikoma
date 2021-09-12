@@ -30,7 +30,7 @@ I did some solo projects in which I continued to discover but also to do other t
 
 
 - Template creation
-  - Adobe XD / Photoshop
+  - Figma / Adobe XD / Photoshop
 - Design analysis / Creation (UX / UI)
 - Product enhancement
 - Photography
