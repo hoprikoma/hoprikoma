@@ -4,7 +4,15 @@ I'm working in front-end WebDev.
 
 ## 📕 - Experience
 
-My biggest experience was working in a communication company during two years:
+My current and biggest experience is working in a ad company during two and counting years : 
+- Ad creation
+  - Front : HTML / CSS / Javascript
+- Software creation
+  - Front : Svelte / React / HTML / CSS / JavaScript
+- Media edition
+  - Adobe Suite ( PS / AI / AE )
+
+My first experience was working in a communication company during two years:
 
 - Website creation via <a href="https://www.joomla.org">Joomla</a>
   - Front : HTML / CSS / JavaScript
